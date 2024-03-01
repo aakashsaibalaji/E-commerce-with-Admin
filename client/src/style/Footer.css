@@ -1,0 +1,11 @@
+a,li{
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.main{
+    position: relative;
+    bottom: 0;
+    border-top: 2px black double;
+}

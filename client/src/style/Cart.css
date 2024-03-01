@@ -1,0 +1,29 @@
+.small-button {
+    font-size: 12px;
+    padding: 6px 10px;
+}
+  
+.small-input {
+    width: 40px;
+    font-size: 12px;
+    text-align: center;
+}
+.page-item,.page-link{
+    width: 2.5rem;
+    color: black;
+}
+.page-link:focus{
+    box-shadow: none;
+}
+.page-link{
+    text-decoration: none;
+    color: #495057;
+    outline: none !important;
+}
+.fa-trash:hover{
+    color: blue;
+    cursor: pointer;
+}
+.cart{
+    color: black;
+}
